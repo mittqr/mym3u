@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sample1" tvg-name="Sample Channel 1" group-title="General",Sample Channel 1
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 tvg-id="sample2" tvg-name="Sample Channel 2" group-title="General",Sample Channel 2
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
